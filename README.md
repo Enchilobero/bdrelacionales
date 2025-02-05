@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Diego Joan Dominguez Lizarraga
+4AVP
